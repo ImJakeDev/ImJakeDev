@@ -34,6 +34,6 @@ Vision – I’m not afraid to dream big and paint a bold picture of the future,
 
 ### Connect with me:
 
-🦋 [BlueSky]([BlueSky](https://bsky.app/profile/jakeschaffer.bsky.social/))
-🧑‍💻 [LinkedIn](https://www.linkedin.com/in/imjakeschaffer/)
-🌐 [Website](https://jakesdigitalgarden.vercel.app/)
+- 🦋 [BlueSky](https://bsky.app/profile/jakeschaffer.bsky.social/)
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/imjakeschaffer/)
+- 🌐 [Website](https://jakesdigitalgarden.vercel.app/)

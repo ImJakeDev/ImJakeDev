@@ -31,9 +31,3 @@ Supporting and lifting others is at the heart of my work, and that’s why my mi
 <strong>Gap Detection:</strong> I instinctively spot areas where improvements can be made to enhance outcomes.
 
 <strong>Vision:</strong> I’m not afraid to dream big and paint a bold picture of the future, inspiring others to join in and take action.
-
-### Connect with me:
-
-- 🦋 [BlueSky](https://bsky.app/profile/jakeschaffer.bsky.social/)
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/imjakeschaffer/)
-- 🌐 [Website](https://jakesdigitalgarden.vercel.app/)
